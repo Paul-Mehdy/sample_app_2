@@ -7,7 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 User.create!(name:  "Paul-Mehdy",
-             email: "paulmehdy.mrabet@gmail.com,
+             email: "paulmehdy.mrabet@gmail.com",
              password:              "test123",
              password_confirmation: "test123",
              admin:true)
